@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Acorns Grow, Inc.",
+    "url": "https://bugcrowd.com/acorns",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 3500,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "Acorns for Android"
+        },
